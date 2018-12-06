@@ -1,0 +1,13 @@
+C:\Users\User\AppData\Local\Temporary Projects\Music\bin\Debug\Music.exe
+C:\Users\User\AppData\Local\Temporary Projects\Music\bin\Debug\Music.pdb
+C:\Users\User\AppData\Local\Temporary Projects\Music\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\User\AppData\Local\Temporary Projects\Music\obj\x86\Debug\Music.csproj.ResolveComReference.cache
+C:\Users\User\AppData\Local\Temporary Projects\Music\obj\x86\Debug\Music.Form1.resources
+C:\Users\User\AppData\Local\Temporary Projects\Music\obj\x86\Debug\Music.Properties.Resources.resources
+C:\Users\User\AppData\Local\Temporary Projects\Music\obj\x86\Debug\Music.csproj.GenerateResource.Cache
+C:\Users\User\AppData\Local\Temporary Projects\Music\obj\x86\Debug\Music.exe
+C:\Users\User\AppData\Local\Temporary Projects\Music\obj\x86\Debug\Music.pdb
+C:\Users\User\Desktop\Music\Music\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\User\Desktop\Music\Music\obj\x86\Debug\Music.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\Music\Music\obj\x86\Debug\Music.exe
+C:\Users\User\Desktop\Music\Music\obj\x86\Debug\Music.pdb
